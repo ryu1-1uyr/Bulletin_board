@@ -59,3 +59,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 laravel使って、掲示板を作ってみたいなーと思っているやつ
 今は、ダミーデータをDBに登録できなくてちょっと止まってる
+edit gitignore
