@@ -14,7 +14,7 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
+                color: #646b7f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -38,7 +38,7 @@
             .top-right {
                 position: absolute;
                 right: 10px;
-                top: 18px;
+                top: 17px;
             }
 
             .content {
@@ -50,7 +50,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: #646b6f;
                 padding: 0 25px;
                 font-size: 12px;
                 font-weight: 600;
